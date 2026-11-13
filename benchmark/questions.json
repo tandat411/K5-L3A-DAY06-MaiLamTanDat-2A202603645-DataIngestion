@@ -1,0 +1,230 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Độ tuổi lao động tối thiểu của người lao động theo quy định là bao nhiêu tuổi?",
+    "expected_answer": "Đủ 15 tuổi (trừ trường hợp quy định riêng tại Mục 1 Chương XI).",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 2,
+    "evidence_quote": "Độ tuổi lao động tối thiểu của người lao động là đủ 15 tuổi, trừ trường hợp quy định tại Mục 1 Chương XI của Bộ luật này.",
+    "filter": {
+      "chapter": "I"
+    }
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Những hành vi nào bị nghiêm cấm trong lĩnh vực lao động?",
+    "expected_answer": "Phân biệt đối xử trong lao động, cưỡng bức lao động, quấy rối tình dục tại nơi làm việc.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 3,
+    "evidence_quote": "Phân biệt đối xử trong lao động; Cưỡng bức lao động; Quấy rối tình dục tại nơi làm việc.",
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Người sử dụng lao động có bắt buộc phải lập sổ quản lý lao động không?",
+    "expected_answer": "Có, phải lập sổ quản lý lao động bằng bản giấy hoặc bản điện tử.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 5,
+    "evidence_quote": "Người sử dụng lao động phải lập sổ quản lý lao động bằng bản giấy hoặc bản điện tử và xuất trình khi cơ quan nhà nước có thẩm quyền yêu cầu.",
+    "filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Bộ luật Lao động 2019 quy định hợp đồng lao động gồm những loại nào?",
+    "expected_answer": "Hợp đồng lao động không xác định thời hạn và hợp đồng lao động xác định thời hạn không quá 36 tháng.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 7,
+    "evidence_quote": "Hợp đồng lao động không xác định thời hạn là hợp đồng mà trong đó hai bên không xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng; Hợp đồng lao động xác định thời hạn là hợp đồng mà trong đó hai bên xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng trong thời gian không quá 36 tháng.",
+    "filter": {
+      "chapter": "III"
+    }
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Thời gian làm thử việc tối đa đối với chức danh người quản lý doanh nghiệp là bao nhiêu ngày?",
+    "expected_answer": "Không quá 180 ngày.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 8,
+    "evidence_quote": "Không quá 180 ngày đối với công việc của người quản lý doanh nghiệp theo quy định của Luật Doanh nghiệp.",
+    "filter": null
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Mức tiền lương thử việc tối thiểu được pháp luật quy định bằng bao nhiêu so với lương chính thức?",
+    "expected_answer": "Ít nhất bằng 85% mức lương của công việc đó.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 8,
+    "evidence_quote": "Tiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận nhưng ít nhất phải bằng 85% mức lương của công việc đó.",
+    "filter": null
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Thời hạn báo trước của người lao động khi đơn phương chấm dứt hợp đồng không xác định thời hạn là bao lâu?",
+    "expected_answer": "Ít nhất 45 ngày.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 10,
+    "evidence_quote": "Ít nhất 45 ngày nếu làm việc theo hợp đồng lao động không xác định thời hạn.",
+    "filter": {
+      "chapter": "III"
+    }
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Mức trợ cấp thôi việc được tính như thế nào cho mỗi năm làm việc?",
+    "expected_answer": "Mỗi năm làm việc được trợ cấp một nửa tháng tiền lương.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 11,
+    "evidence_quote": "Mỗi năm làm việc được trợ cấp một nửa tháng tiền lương, trừ trường hợp đủ điều kiện hưởng lương hưu.",
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Mức chi trả trợ cấp mất việc làm tối thiểu cho người lao động là bao nhiêu tháng lương?",
+    "expected_answer": "Ít nhất bằng 02 tháng tiền lương.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 11,
+    "evidence_quote": "Người sử dụng lao động trả trợ cấp mất việc làm cho người lao động đã làm việc thường xuyên cho mình từ đủ 12 tháng trở lên mà bị mất việc làm, mỗi năm làm việc trả 01 tháng tiền lương nhưng ít nhất bằng 02 tháng tiền lương.",
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Tần suất tối thiểu phải tổ chức đối thoại định kỳ giữa doanh nghiệp và người lao động là bao lâu?",
+    "expected_answer": "Định kỳ ít nhất 01 năm một lần.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 14,
+    "evidence_quote": "Định kỳ ít nhất 01 năm một lần; Khi có yêu cầu của một hoặc các bên; Khi có vụ việc quy định tại điểm a khoản 1 Điều 36, các điều 42, 44, 93, 104, 118.",
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Thỏa ước lao động tập thể doanh nghiệp được ký kết khi có bao nhiêu phần trăm người lao động biểu quyết tán thành?",
+    "expected_answer": "Có trên 50% người lao động của doanh nghiệp biểu quyết tán thành.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 15,
+    "evidence_quote": "Thỏa ước lao động tập thể doanh nghiệp được ký kết khi có trên 50% người lao động của doanh nghiệp biểu quyết tán thành.",
+    "filter": null
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Khi trả lương qua tài khoản ngân hàng, ai phải chịu các khoản phí mở tài khoản và chuyển tiền lương?",
+    "expected_answer": "Người sử dụng lao động phải trả các chi phí này.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 17,
+    "evidence_quote": "Trường hợp trả lương qua tài khoản cá nhân của người lao động được mở tại ngân hàng thì người sử dụng lao động phải trả các loại phí liên quan đến việc mở tài khoản và chuyển tiền lương.",
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Mức tiền lương làm thêm giờ vào ngày nghỉ hằng tuần được tính tối thiểu bằng bao nhiêu phần trăm?",
+    "expected_answer": "Ít nhất bằng 200%.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 18,
+    "evidence_quote": "Vào ngày nghỉ hằng tuần, ít nhất bằng 200%; Vào ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương, ít nhất bằng 300% chưa kể tiền lương ngày lễ, tết.",
+    "filter": null
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Thời giờ làm việc bình thường của người lao động không được vượt quá bao nhiêu giờ trong một ngày và một tuần?",
+    "expected_answer": "Không quá 08 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 19,
+    "evidence_quote": "Thời giờ làm việc bình thường không quá 08 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần.",
+    "filter": null
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Khung giờ làm việc ban đêm được xác định từ mấy giờ đến mấy giờ?",
+    "expected_answer": "Từ 22 giờ đến 06 giờ sáng ngày hôm sau.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 19,
+    "evidence_quote": "Giờ làm việc ban đêm được tính từ 22 giờ đến 06 giờ sáng ngày hôm sau.",
+    "filter": null
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Số giờ làm thêm tối đa của người lao động trong một tháng và một năm trong điều kiện bình thường là bao nhiêu?",
+    "expected_answer": "Không quá 40 giờ trong 01 tháng và không quá 200 giờ trong 01 năm.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 20,
+    "evidence_quote": "Bảo đảm số giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01 ngày; không quá 40 giờ trong 01 tháng; Không quá 200 giờ trong 01 năm, trừ trường hợp quy định tại khoản 3 Điều này.",
+    "filter": {
+      "chapter": "VII"
+    }
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "type": "dien_dat_lai",
+    "question": "Người lao động được nghỉ làm việc hưởng nguyên lương trong các dịp lễ, tết tổng cộng bao nhiêu ngày trong năm?",
+    "expected_answer": "Tổng cộng 11 ngày nghỉ lễ, tết hưởng nguyên lương.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 22,
+    "evidence_quote": "Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết sau đây: Tết Dương lịch: 01 ngày; Tết Âm lịch: 05 ngày; Ngày Chiến thắng: 01 ngày; Ngày Quốc tế lao động: 01 ngày; Quốc khánh: 02 ngày; Ngày Giỗ Tổ Hùng Vương: 01 ngày.",
+    "filter": null
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Người lao động tự ý bỏ việc bao nhiêu ngày không có lý do chính đáng thì có thể bị kỷ luật sa thải?",
+    "expected_answer": "Tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong 365 ngày.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 26,
+    "evidence_quote": "Người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng.",
+    "filter": null
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Người sử dụng lao động bị cấm bắt lao động nữ làm việc ban đêm hoặc làm thêm giờ khi mang thai từ tháng thứ mấy?",
+    "expected_answer": "Từ tháng thứ 07 hoặc từ tháng thứ 06 nếu làm việc ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 29,
+    "evidence_quote": "Mang thai từ tháng thứ 07 hoặc từ tháng thứ 06 nếu làm việc ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo.",
+    "filter": null
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Lộ trình điều chỉnh tuổi nghỉ hưu của lao động nam và lao động nữ trong điều kiện bình thường đạt mốc bao nhiêu tuổi?",
+    "expected_answer": "Đủ 62 tuổi đối với nam vào năm 2028 và đủ 60 tuổi đối với nữ vào năm 2035.",
+    "gold_source_id": "LuatLaoDong2019",
+    "gold_page": 32,
+    "evidence_quote": "Tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường được điều chỉnh theo lộ trình cho đến khi đủ 62 tuổi đối với lao động nam vào năm 2028 và đủ 60 tuổi đối với lao động nữ vào năm 2035.",
+    "filter": null
+  }
+]

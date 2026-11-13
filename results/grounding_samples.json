@@ -1,0 +1,187 @@
+[
+  {
+    "question_id": "q16",
+    "question": "Số giờ làm thêm tối đa của người lao động trong một tháng và một năm trong điều kiện bình thường là bao nhiêu?",
+    "evidence_quote": "Bảo đảm số giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01 ngày; không quá 40 giờ trong 01 tháng; Không quá 200 giờ trong 01 năm, trừ trường hợp quy định tại khoản 3 Điều này.",
+    "strategies": {
+      "Strategy_A": {
+        "matched_rank": 1,
+        "top_3_chunks": [
+          "Bảo đảm số giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01\nngày; không quá 40 giờ trong 01 tháng; Không quá 200 giờ trong 01 năm, trừ trường hợp quy định tại\nkhoản 3 Điều này.\nc) Không quá 200 giờ trong 01 năm, trừ trường hợp quy định tại khoản 3 Điều này.\n3. Người sử dụng lao động được sử dụng người lao động làm thêm giờ không quá 300 giờ trong 01 năm\ntrong một số ngành, nghề, công việc hoặc trường hợp sau: sản xuất, gia công xuất khẩu sản phẩm hàng\ndệt, may,",
+          "BỘ LUẬT LAO ĐỘNG 2019 | CHƯƠNG VII: LÀM THÊM GIỜ VÀ GIỚI HẠN\n\nCHƯƠNG VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\n\nĐiều 107. Làm thêm giờ\n1. Thời gian làm thêm giờ là khoảng thời gian làm việc ngoài thời giờ làm việc bình thường quy định trong\nluật, thỏa ước lao động tập thể hoặc nội quy lao động.\n2. Người sử dụng lao động được sử dụng người lao động làm thêm giờ khi đáp ứng đầy đủ các yêu cầu\nsau đây:\na) Phải được sự đồng ý của người lao động;\nb) Bảo đảm số giờ làm thêm của người lao động không q",
+          "BỘ LUẬT LAO ĐỘNG 2019 | CHƯƠNG VII: THỜI GIỜ LÀM VIỆC BÌNH THƯỜNG VÀ BAN ĐÊM\n\nCHƯƠNG VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\n\nĐiều 105. Thời giờ làm việc bình thường\n1. Thời giờ làm việc bình thường không quá 08 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần.\n2. Người sử dụng lao động có quyền quy định thời giờ làm việc theo ngày hoặc tuần nhưng phải thông\nbáo cho người lao động biết; trường hợp theo tuần thì thời giờ làm việc bình thường không quá 10 giờ\ntrong 01 ngày và không quá 48 gi"
+        ],
+        "grounding_score": 2,
+        "reason": "Top-1 chứa đầy đủ giới hạn 40 giờ/tháng và 200 giờ/năm cùng ngoại lệ 300 giờ, đủ điều kiện trả lời và truy nguồn."
+      },
+      "Strategy_B": {
+        "matched_rank": 1,
+        "top_3_chunks": [
+          "Điều 107. Làm thêm giờ\n1. Thời gian làm thêm giờ là khoảng thời gian làm việc ngoài thời giờ làm việc bình thường quy định trong\nluật, thỏa ước lao động tập thể hoặc nội quy lao động.\n2. Người sử dụng lao động được sử dụng người lao động làm thêm giờ khi đáp ứng đầy đủ các yêu cầu\nsau đây:\na) Phải được sự đồng ý của người lao động;\nb) Bảo đảm số giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01\nngày; không quá 40 giờ trong 01 tháng; Không quá 200 giờ trong 01 năm, trừ trường hợp quy định tại\nkhoản 3 Điều này.\nc) Không quá 200 giờ trong 01 năm, trừ trường hợp quy định tại khoản 3 Điều này.\n3. Người sử dụng lao động được sử dụng người lao động làm thêm giờ không quá 300 giờ trong 01 năm\ntrong một số ngành, nghề, công việc hoặc trường hợp sau: sản xuất, gia cô",
+          "Điều 105. Thời giờ làm việc bình thường\n1. Thời giờ làm việc bình thường không quá 08 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần.\n2. Người sử dụng lao động có quyền quy định thời giờ làm việc theo ngày hoặc tuần nhưng phải thông\nbáo cho người lao động biết; trường hợp theo tuần thì thời giờ làm việc bình thường không quá 10 giờ\ntrong 01 ngày và không quá 48 giờ trong 01 tuần.\n3. Nhà nước khuyến khích người sử dụng lao động thực hiện tuần làm việc 40 giờ đối với người lao động.\n4. Người sử dụng lao động có trách nhiệm bảo đảm giới hạn thời gian làm việc tiếp xúc với yếu tố nguy\nhiểm, yếu tố có hại theo đúng quy chuẩn kỹ thuật quốc gia và pháp luật có liên quan.\n\nĐiều 106. Giờ làm việc ban đêm\nGiờ làm việc ban đêm được tính từ 22 giờ đến 06 giờ sáng ngày hôm sau.\n\nTrang 19 / 35",
+          "BỘ LUẬT LAO ĐỘNG 2019 | CHƯƠNG VII: LÀM THÊM GIỜ VÀ GIỚI HẠN\n\nCHƯƠNG VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI"
+        ],
+        "grounding_score": 2,
+        "reason": "Top-1 chứa trọn vẹn toàn bộ Điều 107 với đầy đủ ngữ cảnh làm thêm giờ và các mốc thời gian."
+      },
+      "Strategy_C": {
+        "matched_rank": 1,
+        "top_3_chunks": [
+          "Điều 107. Làm thêm giờ\n1. Thời gian làm thêm giờ là khoảng thời gian làm việc ngoài thời giờ làm việc bình thường quy định trong\nluật, thỏa ước lao động tập thể hoặc nội quy lao động.\n2. Người sử dụng lao động được sử dụng người lao động làm thêm giờ khi đáp ứng đầy đủ các yêu cầu\nsau đây:\na) Phải được sự đồng ý của người lao động;\nb) Bảo đảm số giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01\nngày; không quá 40 giờ trong 01 tháng; Không quá 200 giờ trong 01 năm, trừ trường hợp quy định tại\nkhoản 3 Điều này.\nc) Không quá 200 giờ trong 01 năm, trừ trường hợp quy định tại khoản 3 Điều này.\n3. Người sử dụng lao động được sử dụng người lao động làm thêm giờ không quá 300 giờ trong 01 năm\ntrong một số ngành, nghề, công việc hoặc trường hợp sau: sản xuất, gia cô",
+          "Điều 105. Thời giờ làm việc bình thường\n1. Thời giờ làm việc bình thường không quá 08 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần.\n2. Người sử dụng lao động có quyền quy định thời giờ làm việc theo ngày hoặc tuần nhưng phải thông\nbáo cho người lao động biết; trường hợp theo tuần thì thời giờ làm việc bình thường không quá 10 giờ\ntrong 01 ngày và không quá 48 giờ trong 01 tuần.\n3. Nhà nước khuyến khích người sử dụng lao động thực hiện tuần làm việc 40 giờ đối với người lao động.\n4. Người sử dụng lao động có trách nhiệm bảo đảm giới hạn thời gian làm việc tiếp xúc với yếu tố nguy\nhiểm, yếu tố có hại theo đúng quy chuẩn kỹ thuật quốc gia và pháp luật có liên quan.\n\nĐiều 106. Giờ làm việc ban đêm\nGiờ làm việc ban đêm được tính từ 22 giờ đến 06 giờ sáng ngày hôm sau.\n\nTrang 19 / 35",
+          "BỘ LUẬT LAO ĐỘNG 2019 | CHƯƠNG VII: LÀM THÊM GIỜ VÀ GIỚI HẠN\n\nCHƯƠNG VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI"
+        ],
+        "grounding_score": 2,
+        "reason": "Top-1 chứa trọn vẹn Điều 107, lọc đúng phạm vi Chương VII giúp kết quả hoàn toàn nằm trong chương thời giờ làm việc."
+      }
+    }
+  },
+  {
+    "question_id": "q17",
+    "question": "Người lao động được nghỉ làm việc hưởng nguyên lương trong các dịp lễ, tết tổng cộng bao nhiêu ngày trong năm?",
+    "evidence_quote": "Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết sau đây: Tết Dương lịch: 01 ngày; Tết Âm lịch: 05 ngày; Ngày Chiến thắng: 01 ngày; Ngày Quốc tế lao động: 01 ngày; Quốc khánh: 02 ngày; Ngày Giỗ Tổ Hùng Vương: 01 ngày.",
+    "strategies": {
+      "Strategy_A": {
+        "matched_rank": 2,
+        "top_3_chunks": [
+          "các ngày nghỉ lễ, tết quy định tại khoản 1\nĐiều này còn được nghỉ thêm 01 ngày Tết cổ truyền dân tộc và 01 ngày Quốc khánh của nước họ.\n\nĐiều 113. Nghỉ hằng năm\n1. Người lao động làm việc đủ 12 tháng cho một người sử dụng lao động thì được nghỉ hằng năm, hưởng\nnguyên lương theo hợp đồng lao động như sau:\na) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;\nb) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm\nnghề, công việc",
+          "BỘ LUẬT LAO ĐỘNG 2019 | CHƯƠNG VII: NGHỈ LỄ TẾT VÀ NGHỈ HẰNG NĂM\n\nCHƯƠNG VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\n\nĐiều 112. Nghỉ lễ, tết\n1. Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết sau đây: Tết Dương\nlịch: 01 ngày; Tết Âm lịch: 05 ngày; Ngày Chiến thắng: 01 ngày; Ngày Quốc tế lao động: 01 ngày; Quốc\nkhánh: 02 ngày; Ngày Giỗ Tổ Hùng Vương: 01 ngày.\n2. Lao động là người nước ngoài làm việc tại Việt Nam ngoài các ngày nghỉ lễ, tết quy định tại khoản 1\nĐiều n",
+          "BỘ LUẬT LAO ĐỘNG 2019 | CHƯƠNG VII: NGHỈ VIỆC RIÊNG VÀ NGHỈ KHÔNG LƯƠNG\n\nCHƯƠNG VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\n\nĐiều 115. Nghỉ việc riêng, nghỉ không hưởng lương\n1. Người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương và phải thông báo với người sử\ndụng lao động trong trường hợp sau đây:\na) Kết hôn: nghỉ 03 ngày;\nb) Con đẻ, con nuôi kết hôn: nghỉ 01 ngày;\nc) Cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi; cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi của vợ hoặc chồng; vợ hoặc\nchồng; con đẻ, con nuôi"
+        ],
+        "grounding_score": 1,
+        "reason": "Top-1 trả về sai điều luật (Điều 113 về nghỉ hằng năm). Top-2 có Điều 112 nhưng bị cắt đứt giữa chừng ở khoản 2."
+      },
+      "Strategy_B": {
+        "matched_rank": 1,
+        "top_3_chunks": [
+          "BỘ LUẬT LAO ĐỘNG 2019 | CHƯƠNG VII: NGHỈ LỄ TẾT VÀ NGHỈ HẰNG NĂM\n\nCHƯƠNG VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\n\nĐiều 112. Nghỉ lễ, tết\n1. Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết sau đây: Tết Dương\nlịch: 01 ngày; Tết Âm lịch: 05 ngày; Ngày Chiến thắng: 01 ngày; Ngày Quốc tế lao động: 01 ngày; Quốc\nkhánh: 02 ngày; Ngày Giỗ Tổ Hùng Vương: 01 ngày.\n2. Lao động là người nước ngoài làm việc tại Việt Nam ngoài các ngày nghỉ lễ, tết quy định tại khoản 1\nĐiều này còn được nghỉ thêm 01 ngày Tết cổ truyền dân tộc và 01 ngày Quốc khánh của nước họ.",
+          "Điều 113. Nghỉ hằng năm\n1. Người lao động làm việc đủ 12 tháng cho một người sử dụng lao động thì được nghỉ hằng năm, hưởng\nnguyên lương theo hợp đồng lao động như sau:\na) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;\nb) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm\nnghề, công việc nặng nhọc, độc hại, nguy hiểm;\nc) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.\n\nTrang 22 / 35",
+          "BỘ LUẬT LAO ĐỘNG 2019 | CHƯƠNG VII: NGHỈ VIỆC RIÊNG VÀ NGHỈ KHÔNG LƯƠNG\n\nCHƯƠNG VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\n\nĐiều 115. Nghỉ việc riêng, nghỉ không hưởng lương\n1. Người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương và phải thông báo với người sử\ndụng lao động trong trường hợp sau đây:\na) Kết hôn: nghỉ 03 ngày;\nb) Con đẻ, con nuôi kết hôn: nghỉ 01 ngày;\nc) Cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi; cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi của vợ hoặc chồng; vợ hoặc\nchồng; con đẻ, con nuôi chết: nghỉ 03 ngày."
+        ],
+        "grounding_score": 2,
+        "reason": "Top-1 trọn vẹn toàn bộ Điều 112 liệt kê đầy đủ 6 dịp lễ tết (tổng cộng 11 ngày) và điều kiện cho người nước ngoài."
+      },
+      "Strategy_C": {
+        "matched_rank": 1,
+        "top_3_chunks": [
+          "BỘ LUẬT LAO ĐỘNG 2019 | CHƯƠNG VII: NGHỈ LỄ TẾT VÀ NGHỈ HẰNG NĂM\n\nCHƯƠNG VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\n\nĐiều 112. Nghỉ lễ, tết\n1. Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết sau đây: Tết Dương\nlịch: 01 ngày; Tết Âm lịch: 05 ngày; Ngày Chiến thắng: 01 ngày; Ngày Quốc tế lao động: 01 ngày; Quốc\nkhánh: 02 ngày; Ngày Giỗ Tổ Hùng Vương: 01 ngày.\n2. Lao động là người nước ngoài làm việc tại Việt Nam ngoài các ngày nghỉ lễ, tết quy định tại khoản 1\nĐiều này còn được nghỉ thêm 01 ngày Tết cổ truyền dân tộc và 01 ngày Quốc khánh của nước họ.",
+          "Điều 113. Nghỉ hằng năm\n1. Người lao động làm việc đủ 12 tháng cho một người sử dụng lao động thì được nghỉ hằng năm, hưởng\nnguyên lương theo hợp đồng lao động như sau:\na) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;\nb) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm\nnghề, công việc nặng nhọc, độc hại, nguy hiểm;\nc) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.\n\nTrang 22 / 35",
+          "BỘ LUẬT LAO ĐỘNG 2019 | CHƯƠNG VII: NGHỈ VIỆC RIÊNG VÀ NGHỈ KHÔNG LƯƠNG\n\nCHƯƠNG VII: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI\n\nĐiều 115. Nghỉ việc riêng, nghỉ không hưởng lương\n1. Người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương và phải thông báo với người sử\ndụng lao động trong trường hợp sau đây:\na) Kết hôn: nghỉ 03 ngày;\nb) Con đẻ, con nuôi kết hôn: nghỉ 01 ngày;\nc) Cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi; cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi của vợ hoặc chồng; vợ hoặc\nchồng; con đẻ, con nuôi chết: nghỉ 03 ngày."
+        ],
+        "grounding_score": 2,
+        "reason": "Top-1 trọn vẹn toàn bộ Điều 112 liệt kê đầy đủ 6 dịp lễ tết và điều kiện kèm theo."
+      }
+    }
+  },
+  {
+    "question_id": "q18",
+    "question": "Người lao động tự ý bỏ việc bao nhiêu ngày không có lý do chính đáng thì có thể bị kỷ luật sa thải?",
+    "evidence_quote": "Người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng.",
+    "strategies": {
+      "Strategy_A": {
+        "matched_rank": null,
+        "top_3_chunks": [
+          "ạn 30 ngày hoặc 20 ngày cộng dồn trong\nthời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng.\n\nTrang 26 / 35",
+          "phạm quyền sở hữu trí tuệ\ncủa người sử dụng lao động, có hành vi gây thiệt hại nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt\nnghiêm trọng về tài sản, lợi ích của người sử dụng lao động hoặc quấy rối tình dục tại nơi làm việc được\nquy định trong nội quy lao động.\n3. Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương hoặc cách chức mà tái phạm trong thời\ngian chưa xóa kỷ luật.\n4. Người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong\nthời hạn 36",
+          "BỘ LUẬT LAO ĐỘNG 2019 | CHƯƠNG VIII: ÁP DỤNG HÌNH THỨC SA THẢI\n\nCHƯƠNG VIII: KỶ LUẬT LAO ĐỘNG, TRÁCH NHIỆM VẬT CHẤT\n\nĐiều 125. Áp dụng hình thức xử lý kỷ luật sa thải\nHình thức xử lý kỷ luật sa thải được người sử dụng lao động áp dụng trong trường hợp sau đây:\n1. Người lao động có hành vi trộm cắp, tham ô, đánh bạc, cố ý gây thương tích, sử dụng ma túy tại nơi\nlàm việc.\n2. Người lao động có hành vi tiết lộ bí mật kinh doanh, bí mật công nghệ, xâm phạm quyền sở hữu trí tuệ\ncủa người sử dụng lao đ"
+        ],
+        "grounding_score": 1,
+        "reason": "Bằng chứng bị cắt rời thành 2 chunk độc lập (Top-1 có vế sau 20 ngày / 365 ngày; Top-2 có vế đầu 5 ngày / 30 ngày). Cần đọc cả hai chunk mới suy ra đủ đáp án."
+      },
+      "Strategy_B": {
+        "matched_rank": null,
+        "top_3_chunks": [
+          "0 ngày cộng dồn trong\nthời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng.\n\nTrang 26 / 35",
+          "Điều 125. Áp dụng hình thức xử lý kỷ luật sa thải\nHình thức xử lý kỷ luật sa thải được người sử dụng lao động áp dụng trong trường hợp sau đây:\n1. Người lao động có hành vi trộm cắp, tham ô, đánh bạc, cố ý gây thương tích, sử dụng ma túy tại nơi\nlàm việc.\n2. Người lao động có hành vi tiết lộ bí mật kinh doanh, bí mật công nghệ, xâm phạm quyền sở hữu trí tuệ\ncủa người sử dụng lao động, có hành vi gây thiệt hại nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt\nnghiêm trọng về tài sản, lợi ích của người sử dụng lao động hoặc quấy rối tình dục tại nơi làm việc được\nquy định trong nội quy lao động.\n3. Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương hoặc cách chức mà tái phạm trong thời\ngian chưa xóa kỷ luật.\n4. Người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 2",
+          "2. Người lao động có quyền đơn phương chấm dứt hợp đồng lao động không cần báo trước trong các\ntrường hợp sau đây:\na) Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm\nviệc theo thỏa thuận.\nb) Không được trả đủ lương hoặc trả lương không đúng thời hạn.\nc) Bị người sử dụng lao động ngược đãi, đánh đập hoặc có lời nói, hành vi nhục mạ, hành vi làm ảnh\nhưởng đến sức khỏe, nhân phẩm, danh dự; bị cưỡng bức lao động; bị quấy rối tình dục tại nơi làm việc.\n\nTrang 10 / 35"
+        ],
+        "grounding_score": 1,
+        "reason": "Điều 125 dài hơn 800 ký tự nên bị chia thành 2 chunk. Top-2 có vế 5 ngày, Top-1 có vế 20 ngày. Đủ để trả lời nếu tổng hợp cả 2 chunk nhưng thiếu trọn vẹn trong 1 chunk."
+      },
+      "Strategy_C": {
+        "matched_rank": null,
+        "top_3_chunks": [
+          "0 ngày cộng dồn trong\nthời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng.\n\nTrang 26 / 35",
+          "Điều 125. Áp dụng hình thức xử lý kỷ luật sa thải\nHình thức xử lý kỷ luật sa thải được người sử dụng lao động áp dụng trong trường hợp sau đây:\n1. Người lao động có hành vi trộm cắp, tham ô, đánh bạc, cố ý gây thương tích, sử dụng ma túy tại nơi\nlàm việc.\n2. Người lao động có hành vi tiết lộ bí mật kinh doanh, bí mật công nghệ, xâm phạm quyền sở hữu trí tuệ\ncủa người sử dụng lao động, có hành vi gây thiệt hại nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt\nnghiêm trọng về tài sản, lợi ích của người sử dụng lao động hoặc quấy rối tình dục tại nơi làm việc được\nquy định trong nội quy lao động.\n3. Người lao động bị xử lý kỷ luật kéo dài thời hạn nâng lương hoặc cách chức mà tái phạm trong thời\ngian chưa xóa kỷ luật.\n4. Người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 2",
+          "2. Người lao động có quyền đơn phương chấm dứt hợp đồng lao động không cần báo trước trong các\ntrường hợp sau đây:\na) Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm\nviệc theo thỏa thuận.\nb) Không được trả đủ lương hoặc trả lương không đúng thời hạn.\nc) Bị người sử dụng lao động ngược đãi, đánh đập hoặc có lời nói, hành vi nhục mạ, hành vi làm ảnh\nhưởng đến sức khỏe, nhân phẩm, danh dự; bị cưỡng bức lao động; bị quấy rối tình dục tại nơi làm việc.\n\nTrang 10 / 35"
+        ],
+        "grounding_score": 1,
+        "reason": "Do không có filter chương ở câu này, kết quả tương tự Strategy B. Cần đọc cả hai chunk mới có trọn vẹn hai mốc 5 ngày và 20 ngày."
+      }
+    }
+  },
+  {
+    "question_id": "q19",
+    "question": "Người sử dụng lao động bị cấm bắt lao động nữ làm việc ban đêm hoặc làm thêm giờ khi mang thai từ tháng thứ mấy?",
+    "evidence_quote": "Mang thai từ tháng thứ 07 hoặc từ tháng thứ 06 nếu làm việc ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo.",
+    "strategies": {
+      "Strategy_A": {
+        "matched_rank": 1,
+        "top_3_chunks": [
+          "ường\nxuyên, áp dụng rộng rãi chế độ làm việc theo thời gian biểu linh hoạt, làm việc không trọn thời gian, giao\nviệc làm tại nhà.\n\nĐiều 137. Bảo vệ thai sản\n1. Người sử dụng lao động không được sử dụng người lao động làm việc ban đêm, làm thêm giờ và đi\ncông tác xa trong các trường hợp sau đây:\na) Mang thai từ tháng thứ 07 hoặc từ tháng thứ 06 nếu làm việc ở vùng cao, vùng sâu, vùng xa, biên giới,\nhải đảo.\nb) Đang nuôi con dưới 12 tháng tuổi, trừ trường hợp được người lao động đồng ý.\n2. Lao độn",
+          "trường hợp được người lao động đồng ý.\n2. Lao động nữ làm nghề, công việc nặng nhọc, độc hại, nguy hiểm khi mang thai và có thông báo cho\nngười sử dụng lao động biết thì được chuyển làm công việc nhẹ hơn, an toàn hơn hoặc giảm bớt 01 giờ\nlàm việc hằng ngày mà không bị cắt giảm tiền lương.\n\nTrang 29 / 35",
+          "không quá 10 giờ\ntrong 01 ngày và không quá 48 giờ trong 01 tuần.\n3. Nhà nước khuyến khích người sử dụng lao động thực hiện tuần làm việc 40 giờ đối với người lao động.\n4. Người sử dụng lao động có trách nhiệm bảo đảm giới hạn thời gian làm việc tiếp xúc với yếu tố nguy\nhiểm, yếu tố có hại theo đúng quy chuẩn kỹ thuật quốc gia và pháp luật có liên quan.\n\nĐiều 106. Giờ làm việc ban đêm\nGiờ làm việc ban đêm được tính từ 22 giờ đến 06 giờ sáng ngày hôm sau.\n\nTrang 19 / 35"
+        ],
+        "grounding_score": 2,
+        "reason": "Top-1 chứa đầy đủ mốc mang thai từ tháng thứ 7 (hoặc tháng thứ 6 vùng cao/xa), kèm điều kiện nuôi con nhỏ dưới 12 tháng."
+      },
+      "Strategy_B": {
+        "matched_rank": 1,
+        "top_3_chunks": [
+          "Điều 137. Bảo vệ thai sản\n1. Người sử dụng lao động không được sử dụng người lao động làm việc ban đêm, làm thêm giờ và đi\ncông tác xa trong các trường hợp sau đây:\na) Mang thai từ tháng thứ 07 hoặc từ tháng thứ 06 nếu làm việc ở vùng cao, vùng sâu, vùng xa, biên giới,\nhải đảo.\nb) Đang nuôi con dưới 12 tháng tuổi, trừ trường hợp được người lao động đồng ý.\n2. Lao động nữ làm nghề, công việc nặng nhọc, độc hại, nguy hiểm khi mang thai và có thông báo cho\nngười sử dụng lao động biết thì được chuyển làm công việc nhẹ hơn, an toàn hơn hoặc giảm bớt 01 giờ\nlàm việc hằng ngày mà không bị cắt giảm tiền lương.\n\nTrang 29 / 35",
+          "Điều 105. Thời giờ làm việc bình thường\n1. Thời giờ làm việc bình thường không quá 08 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần.\n2. Người sử dụng lao động có quyền quy định thời giờ làm việc theo ngày hoặc tuần nhưng phải thông\nbáo cho người lao động biết; trường hợp theo tuần thì thời giờ làm việc bình thường không quá 10 giờ\ntrong 01 ngày và không quá 48 giờ trong 01 tuần.\n3. Nhà nước khuyến khích người sử dụng lao động thực hiện tuần làm việc 40 giờ đối với người lao động.\n4. Người sử dụng lao động có trách nhiệm bảo đảm giới hạn thời gian làm việc tiếp xúc với yếu tố nguy\nhiểm, yếu tố có hại theo đúng quy chuẩn kỹ thuật quốc gia và pháp luật có liên quan.\n\nĐiều 106. Giờ làm việc ban đêm\nGiờ làm việc ban đêm được tính từ 22 giờ đến 06 giờ sáng ngày hôm sau.\n\nTrang 19 / 35",
+          "Điều 107. Làm thêm giờ\n1. Thời gian làm thêm giờ là khoảng thời gian làm việc ngoài thời giờ làm việc bình thường quy định trong\nluật, thỏa ước lao động tập thể hoặc nội quy lao động.\n2. Người sử dụng lao động được sử dụng người lao động làm thêm giờ khi đáp ứng đầy đủ các yêu cầu\nsau đây:\na) Phải được sự đồng ý của người lao động;\nb) Bảo đảm số giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01\nngày; không quá 40 giờ trong 01 tháng; Không quá 200 giờ trong 01 năm, trừ trường hợp quy định tại\nkhoản 3 Điều này.\nc) Không quá 200 giờ trong 01 năm, trừ trường hợp quy định tại khoản 3 Điều này.\n3. Người sử dụng lao động được sử dụng người lao động làm thêm giờ không quá 300 giờ trong 01 năm\ntrong một số ngành, nghề, công việc hoặc trường hợp sau: sản xuất, gia cô"
+        ],
+        "grounding_score": 2,
+        "reason": "Top-1 trọn vẹn cả Điều 137 về chế độ bảo vệ thai sản cho lao động nữ."
+      },
+      "Strategy_C": {
+        "matched_rank": 1,
+        "top_3_chunks": [
+          "Điều 137. Bảo vệ thai sản\n1. Người sử dụng lao động không được sử dụng người lao động làm việc ban đêm, làm thêm giờ và đi\ncông tác xa trong các trường hợp sau đây:\na) Mang thai từ tháng thứ 07 hoặc từ tháng thứ 06 nếu làm việc ở vùng cao, vùng sâu, vùng xa, biên giới,\nhải đảo.\nb) Đang nuôi con dưới 12 tháng tuổi, trừ trường hợp được người lao động đồng ý.\n2. Lao động nữ làm nghề, công việc nặng nhọc, độc hại, nguy hiểm khi mang thai và có thông báo cho\nngười sử dụng lao động biết thì được chuyển làm công việc nhẹ hơn, an toàn hơn hoặc giảm bớt 01 giờ\nlàm việc hằng ngày mà không bị cắt giảm tiền lương.\n\nTrang 29 / 35",
+          "Điều 105. Thời giờ làm việc bình thường\n1. Thời giờ làm việc bình thường không quá 08 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần.\n2. Người sử dụng lao động có quyền quy định thời giờ làm việc theo ngày hoặc tuần nhưng phải thông\nbáo cho người lao động biết; trường hợp theo tuần thì thời giờ làm việc bình thường không quá 10 giờ\ntrong 01 ngày và không quá 48 giờ trong 01 tuần.\n3. Nhà nước khuyến khích người sử dụng lao động thực hiện tuần làm việc 40 giờ đối với người lao động.\n4. Người sử dụng lao động có trách nhiệm bảo đảm giới hạn thời gian làm việc tiếp xúc với yếu tố nguy\nhiểm, yếu tố có hại theo đúng quy chuẩn kỹ thuật quốc gia và pháp luật có liên quan.\n\nĐiều 106. Giờ làm việc ban đêm\nGiờ làm việc ban đêm được tính từ 22 giờ đến 06 giờ sáng ngày hôm sau.\n\nTrang 19 / 35",
+          "Điều 107. Làm thêm giờ\n1. Thời gian làm thêm giờ là khoảng thời gian làm việc ngoài thời giờ làm việc bình thường quy định trong\nluật, thỏa ước lao động tập thể hoặc nội quy lao động.\n2. Người sử dụng lao động được sử dụng người lao động làm thêm giờ khi đáp ứng đầy đủ các yêu cầu\nsau đây:\na) Phải được sự đồng ý của người lao động;\nb) Bảo đảm số giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01\nngày; không quá 40 giờ trong 01 tháng; Không quá 200 giờ trong 01 năm, trừ trường hợp quy định tại\nkhoản 3 Điều này.\nc) Không quá 200 giờ trong 01 năm, trừ trường hợp quy định tại khoản 3 Điều này.\n3. Người sử dụng lao động được sử dụng người lao động làm thêm giờ không quá 300 giờ trong 01 năm\ntrong một số ngành, nghề, công việc hoặc trường hợp sau: sản xuất, gia cô"
+        ],
+        "grounding_score": 2,
+        "reason": "Top-1 trọn vẹn Điều 137, thông tin đầy đủ và chính xác."
+      }
+    }
+  },
+  {
+    "question_id": "q20",
+    "question": "Lộ trình điều chỉnh tuổi nghỉ hưu của lao động nam và lao động nữ trong điều kiện bình thường đạt mốc bao nhiêu tuổi?",
+    "evidence_quote": "Tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường được điều chỉnh theo lộ trình cho đến khi đủ 62 tuổi đối với lao động nam vào năm 2028 và đủ 60 tuổi đối với lao động nữ vào năm 2035.",
+    "strategies": {
+      "Strategy_A": {
+        "matched_rank": null,
+        "top_3_chunks": [
+          "BỘ LUẬT LAO ĐỘNG 2019 | CHƯƠNG XI: TUỔI NGHỈ HƯU\n\nCHƯƠNG XI: NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI MỘT SỐ LAO ĐỘNG KHÁC\n\nĐiều 169. Tuổi nghỉ hưu\n1. Người lao động bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội theo quy định của pháp luật về\nbảo hiểm xã hội được hưởng lương hưu khi đủ tuổi nghỉ hưu.\n2. Tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường được điều chỉnh theo lộ trình\ncho đến khi đủ 62 tuổi đối với lao động nam vào năm 2028 và đủ 60 tuổi đối với lao động nữ vào năm\n20",
+          "2028 và đủ 60 tuổi đối với lao động nữ vào năm\n2035.\nKể từ năm 2021, tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường là đủ 60 tuổi 03\ntháng đối với lao động nam và đủ 55 tuổi 04 tháng đối với lao động nữ; sau đó, cứ mỗi năm tăng thêm 03\ntháng đối với lao động nam và 04 tháng đối với lao động nữ.\n3. Người lao động bị suy giảm khả năng lao động; làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy\nhiểm; làm việc ở vùng có điều kiện kinh tế ­ xã hội đặc biệt khó khăn có thể",
+          "ều kiện kinh tế ­ xã hội đặc biệt khó khăn có thể nghỉ hưu ở tuổi thấp hơn\nnhưng không quá 05 tuổi so với quy định tại khoản 2 Điều này.\n4. Người lao động có trình độ chuyên môn, kỹ thuật cao và một số trường hợp đặc biệt có thể nghỉ hưu ở\ntuổi cao hơn nhưng không quá 05 tuổi so với quy định tại khoản 2 Điều này.\n\nTrang 32 / 35"
+        ],
+        "grounding_score": 1,
+        "reason": "Top-1 bị cắt cụt ngay tại 'năm 20' (thiếu số 35 cho lao động nữ). Phải đọc tiếp sang Top-2 mới có mốc 2035 trọn vẹn."
+      },
+      "Strategy_B": {
+        "matched_rank": 1,
+        "top_3_chunks": [
+          "Điều 169. Tuổi nghỉ hưu\n1. Người lao động bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội theo quy định của pháp luật về\nbảo hiểm xã hội được hưởng lương hưu khi đủ tuổi nghỉ hưu.\n2. Tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường được điều chỉnh theo lộ trình\ncho đến khi đủ 62 tuổi đối với lao động nam vào năm 2028 và đủ 60 tuổi đối với lao động nữ vào năm\n2035.\nKể từ năm 2021, tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường là đủ 60 tuổi 03\ntháng đối với lao động nam và đủ 55 tuổi 04 tháng đối với lao động nữ; sau đó, cứ mỗi năm tăng thêm 03\ntháng đối với lao động nam và 04 tháng đối với lao động nữ.\n3. Người lao động bị suy giảm khả năng lao động; làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy\nhiểm; làm việc ở vùng có điều kiện kinh",
+          "tế ­ xã hội đặc biệt khó khăn có thể nghỉ hưu ở tuổi thấp hơn\nnhưng không quá 05 tuổi so với quy định tại khoản 2 Điều này.\n4. Người lao động có trình độ chuyên môn, kỹ thuật cao và một số trường hợp đặc biệt có thể nghỉ hưu ở\ntuổi cao hơn nhưng không quá 05 tuổi so với quy định tại khoản 2 Điều này.\n\nTrang 32 / 35",
+          "BỘ LUẬT LAO ĐỘNG 2019 | CHƯƠNG XI: TUỔI NGHỈ HƯU\n\nCHƯƠNG XI: NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI MỘT SỐ LAO ĐỘNG KHÁC"
+        ],
+        "grounding_score": 2,
+        "reason": "Top-1 trọn vẹn cả lộ trình tuổi nghỉ hưu: đủ 62 tuổi với nam vào năm 2028 và đủ 60 tuổi với nữ vào năm 2035."
+      },
+      "Strategy_C": {
+        "matched_rank": 1,
+        "top_3_chunks": [
+          "Điều 169. Tuổi nghỉ hưu\n1. Người lao động bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội theo quy định của pháp luật về\nbảo hiểm xã hội được hưởng lương hưu khi đủ tuổi nghỉ hưu.\n2. Tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường được điều chỉnh theo lộ trình\ncho đến khi đủ 62 tuổi đối với lao động nam vào năm 2028 và đủ 60 tuổi đối với lao động nữ vào năm\n2035.\nKể từ năm 2021, tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường là đủ 60 tuổi 03\ntháng đối với lao động nam và đủ 55 tuổi 04 tháng đối với lao động nữ; sau đó, cứ mỗi năm tăng thêm 03\ntháng đối với lao động nam và 04 tháng đối với lao động nữ.\n3. Người lao động bị suy giảm khả năng lao động; làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy\nhiểm; làm việc ở vùng có điều kiện kinh",
+          "tế ­ xã hội đặc biệt khó khăn có thể nghỉ hưu ở tuổi thấp hơn\nnhưng không quá 05 tuổi so với quy định tại khoản 2 Điều này.\n4. Người lao động có trình độ chuyên môn, kỹ thuật cao và một số trường hợp đặc biệt có thể nghỉ hưu ở\ntuổi cao hơn nhưng không quá 05 tuổi so với quy định tại khoản 2 Điều này.\n\nTrang 32 / 35",
+          "BỘ LUẬT LAO ĐỘNG 2019 | CHƯƠNG XI: TUỔI NGHỈ HƯU\n\nCHƯƠNG XI: NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI MỘT SỐ LAO ĐỘNG KHÁC"
+        ],
+        "grounding_score": 2,
+        "reason": "Top-1 trọn vẹn cả lộ trình tuổi nghỉ hưu của nam và nữ."
+      }
+    }
+  }
+]

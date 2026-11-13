@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size,500,50,"document_id,source,page,chapter",None,qwen/qwen3-embedding-8b,Fixed-size chunking baseline de bi dut doan dieu khoan luat giua chung,12/15,13/15,2/5,3/5,Baseline
+B,by_paragraph,800,0,"document_id,source,page,chapter",None,qwen/qwen3-embedding-8b,Structure-aware paragraph giu tron ven nguyen dieu khoan luat tang coherence va hit rate,15/15,15/15,4/5,4/5,Paragraph
+C,by_paragraph,800,0,"document_id,source,page,chapter",chapter,qwen/qwen3-embedding-8b,Structure-aware cong metadata filter chapter loai bo nhieu giua cac chuong khac nhau,15/15,15/15,4/5,4/5,Paragraph+Filter

@@ -10,7 +10,20 @@ Biến tài liệu thành kho tri thức có thể truy xuất cho AI agent, r�
 
 ## Bắt đầu nhanh
 
-Dùng [starter PostgreSQL + pgvector](starter/README.md) để dựng database và hoàn thiện các hàm TODO, hoặc tự chọn vector store tương đương. Starter chỉ là khung: **bạn tự hiện thực pipeline và benchmark**.
+Dùng [starter PostgreSQL + pgvector](starter/README.md) để dựng database. Toàn bộ pipeline đã được hiện thực hóa đầy đủ:
+
+```bash
+# 1. Khởi động PostgreSQL 16 + pgvector (cổng local 55433)
+docker compose -f starter/docker-compose.yml -p day6_student_starter up -d --wait
+
+# 2. Cài đặt thư viện cần thiết
+pip install -r starter/requirements.txt
+
+# 3. Thực thi toàn trình Pipeline Ingestion & Benchmark
+python starter/src/run.py
+```
+
+Pipeline sẽ tự động đọc 35 trang văn bản Bộ luật Lao động 2019, chia chunk theo Strategy A (Fixed-size) và Strategy B/C (Structure-aware Paragraph), tạo vector bằng model `qwen/qwen3-embedding-8b` (4096 dims), upsert vào pgvector, chạy benchmark 20 câu hỏi (15 dev / 5 test), xuất trace, metrics và cập nhật nhật ký thí nghiệm `artifacts/experiment_log.csv`.
 
 ## 1. Xây pipeline
 
